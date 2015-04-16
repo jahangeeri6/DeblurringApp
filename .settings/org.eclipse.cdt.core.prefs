@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1560998376/MAKE/delimiter=;
+environment/project/com.android.toolchain.gcc.1560998376/MAKE/operation=append
+environment/project/com.android.toolchain.gcc.1560998376/MAKE/value=${PATH}\:/Developer/usr/bin
+environment/project/com.android.toolchain.gcc.1560998376/append=true
+environment/project/com.android.toolchain.gcc.1560998376/appendContributed=true
