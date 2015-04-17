@@ -1,2 +1,2 @@
-# deblurringApp
+# DeblurringApp
 FYP
