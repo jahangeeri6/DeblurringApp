@@ -1,8 +1,6 @@
 /*
  * PixelateFilter.h
  *
- *  Created on: 2014-4-12
- *      Author: ragnarok
  */
 
 #ifndef PIXELATEFILTER_H_
