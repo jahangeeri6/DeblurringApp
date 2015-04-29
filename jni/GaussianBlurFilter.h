@@ -1,8 +1,5 @@
 /*
  * GaussianBlurFilter.h
- *
- *  Created on: 2014-4-11
- *      Author: ragnarok
  */
 
 #ifndef GAUSSIANBLURFILTER_H_
