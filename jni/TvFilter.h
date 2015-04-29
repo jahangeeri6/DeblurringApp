@@ -1,8 +1,5 @@
 /*
  * TvFilter.h
- *
- *  Created on: 2013-2-10
- *      Author: ragnarok
  */
 
 #ifndef TVFILTER_H_
