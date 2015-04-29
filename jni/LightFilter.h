@@ -1,8 +1,6 @@
 /*
  * LightFilter.h
  *
- *  Created on: 2013-2-9
- *      Author: ragnarok
  */
 
 #ifndef LIGHTFILTER_H_
