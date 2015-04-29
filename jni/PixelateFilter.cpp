@@ -1,8 +1,6 @@
 /*
  * PixelateFilter.cpp
  *
- *  Created on: 2014-4-12
- *      Author: ragnarok
  */
 
 #include "PixelateFilter.h"
