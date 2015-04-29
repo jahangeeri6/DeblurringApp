@@ -1,8 +1,6 @@
 /*
  * NeonFilter.h
  *
- *  Created on: 2013-2-9
- *      Author: ragnarok
  */
 
 #ifndef NEONFILTER_H_
