@@ -1,8 +1,6 @@
 /*
  * OldFilter.h
  *
- *  Created on: 2013-2-10
- *      Author: ragnarok
  */
 
 #ifndef OLDFILTER_H_
