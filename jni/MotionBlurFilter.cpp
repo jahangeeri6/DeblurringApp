@@ -1,8 +1,6 @@
 /*
  * MotionBlurFilter.cpp
  *
- *  Created on: 2014-4-14
- *      Author: ragnarok
  */
 
 #include <stdlib.h>
