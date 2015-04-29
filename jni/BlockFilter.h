@@ -1,8 +1,6 @@
 /*
  * BlockFilter.h
  *
- *  Created on: 2014-4-13
- *      Author: ragnarok
  */
 
 #ifndef BLOCKFILTER_H_
