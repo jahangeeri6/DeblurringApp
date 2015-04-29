@@ -1,8 +1,6 @@
 /*
  * HDRFilter.h
  *
- *  Created on: 2013-2-10
- *      Author: ragnarok
  */
 
 #ifndef HDRFILTER_H_
