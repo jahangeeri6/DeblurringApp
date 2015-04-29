@@ -1,8 +1,6 @@
 /*
  * GammaCorrectionFilter.h
  *
- *  Created on: 2014-4-13
- *      Author: ragnarok
  */
 
 #ifndef GAMMACORRECTIONFILTER_H_
