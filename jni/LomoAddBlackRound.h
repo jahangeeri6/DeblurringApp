@@ -1,8 +1,6 @@
 /*
  * LomoAddBlackRound.h
  *
- *  Created on: 2013-2-10
- *      Author: ragnarok
  */
 
 #ifndef LOMOADDBLACKROUND_H_
