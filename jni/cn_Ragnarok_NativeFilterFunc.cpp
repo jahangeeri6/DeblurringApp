@@ -2,8 +2,7 @@
 
  * cn_Ragnarok_NativeFilterFunc.cpp
  *
- *  Created on: 2013-2-9
- *      Author: ragnarok
+ *  
  */
 
 #include "cn_Ragnarok_NativeFilterFunc.h"
