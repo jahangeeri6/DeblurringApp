@@ -1,8 +1,6 @@
 /*
  * GothamFilter.h
  *
- *  Created on: 2014-4-18
- *      Author: ragnarok
  */
 
 #ifndef GOTHAMFILTER_H_
