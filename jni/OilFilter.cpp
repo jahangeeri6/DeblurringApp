@@ -1,8 +1,5 @@
 /*
  * OilFilter.cpp
- *
- *  Created on: 2014-4-11
- *      Author: ragnarok
  */
 
 #include <time.h>
