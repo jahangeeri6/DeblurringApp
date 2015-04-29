@@ -1,8 +1,5 @@
 /*
  * ReliefFilter.h
- *
- *  Created on: 2014-4-12
- *      Author: ragnarok
  */
 
 #ifndef RELIEFFILTER_H_
