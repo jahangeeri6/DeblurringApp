@@ -1,8 +1,6 @@
 /*
  * AverageSmoothFilter.h
  *
- *  Created on: 2014-4-10
- *      Author: ragnarok
  */
 
 #ifndef AVERAGESMOOTHFILTER_H_
