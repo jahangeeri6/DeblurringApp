@@ -1,8 +1,5 @@
 /*
  * SharpenFilter.cpp
- *
- *  Created on: 2014-4-12
- *      Author: ragnarok
  */
 
 
