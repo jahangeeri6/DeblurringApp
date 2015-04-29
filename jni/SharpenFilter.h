@@ -1,8 +1,5 @@
 /*
  * SharpenFilter.h
- *
- *  Created on: 2014-4-12
- *      Author: ragnarok
  */
 
 #ifndef SHARPENFILTER_H_
