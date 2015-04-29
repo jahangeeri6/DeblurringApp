@@ -1,8 +1,6 @@
 /*
  * GothamFilter.cpp
  *
- *  Created on: 2014-4-18
- *      Author: ragnarok
  */
 
 #include "GothamFilter.h"
