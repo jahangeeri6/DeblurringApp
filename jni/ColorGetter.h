@@ -1,8 +1,6 @@
 /*
  * ColorGetter.h
  *
- *  Created on: 2013-2-9
- *      Author: ragnarok
  */
 
 #ifndef COLORGETTER_H_
