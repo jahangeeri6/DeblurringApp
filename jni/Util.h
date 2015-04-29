@@ -1,8 +1,6 @@
 /*
  * Util.h
  *
- *  Created on: 2013-2-9
- *      Author: ragnarok
  */
 
 #ifndef UTIL_H_
