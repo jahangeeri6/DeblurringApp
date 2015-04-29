@@ -1,8 +1,6 @@
 /*
  * MotionBlurFilter.h
  *
- *  Created on: 2014-4-14
- *      Author: ragnarok
  */
 
 #ifndef MOTIONBLURFILTER_H_
