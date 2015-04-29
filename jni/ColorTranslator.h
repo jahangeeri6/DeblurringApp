@@ -1,8 +1,6 @@
 /*
  * ColorTranslator.h
  *
- *  Created on: 2014-4-17
- *      Author: ragnarok
  */
 
 #ifndef COLORTRANSLATOR_H_
