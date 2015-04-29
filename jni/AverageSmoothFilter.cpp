@@ -1,8 +1,6 @@
 /*
  * AverageSmoothFilter.cpp
  *
- *  Created on: 2014-4-10
- *      Author: ragnarok
  */
 
 #include "AverageSmoothFilter.h"
