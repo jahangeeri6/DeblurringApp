@@ -1,8 +1,6 @@
 /*
  * ImageFilter.h
  *
- *  Created on: 2014-4-10
- *      Author: ragnarok
  */
 
 #ifndef IMAGEFILTER_H_
