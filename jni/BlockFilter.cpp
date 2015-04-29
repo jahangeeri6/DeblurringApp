@@ -1,8 +1,6 @@
 /*
  * BlockFilter.cpp
  *
- *  Created on: 2014-4-13
- *      Author: ragnarok
  */
 
 #include "BlockFilter.h"
