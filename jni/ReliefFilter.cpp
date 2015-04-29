@@ -1,8 +1,6 @@
 /*
  * ReliefFilter.cpp
  *
- *  Created on: 2014-4-12
- *      Author: ragnarok
  */
 
 #include "ReliefFilter.h"
