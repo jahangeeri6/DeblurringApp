@@ -1,8 +1,5 @@
 /*
  * SoftGlowFilter.h
- *
- *  Created on: 2013-2-13
- *      Author: ragnarok
  */
 
 #ifndef SOFTGLOWFILTER_H_
