@@ -1,8 +1,5 @@
 /*
  * SketchFilter.h
- *
- *  Created on: 2013-3-18
- *      Author: ragnarok
  */
 
 #ifndef SKETCHFILTER_H_
